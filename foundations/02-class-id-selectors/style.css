@@ -1,0 +1,19 @@
+p.odd {
+  background-color: #e48989;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+p.bigger {
+  font-size: 24px;
+}
+
+#numTwo {
+  color: blue;
+  font-size: 36px;
+}
+
+#numFour {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
